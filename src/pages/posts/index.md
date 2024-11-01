@@ -1,12 +1,12 @@
 ---
 plans:
-  - planTitle: 2 Savaitės
-    planPrice: 79.99€
+  - planTitle: Savaitgalio narystė
+    planPrice: 29.99€
     planDescriptions:
       - planDescription: Pilnai išanalizuoti statymai
       - planDescription: Klaidingos lažybų bendrovių linijos
       - planDescription: Pagalba klientams 24/7
-      - planDescription: 40-50 Prognozių
+      - planDescription: 10-15 Prognozių
     isMostPopular: false
   - planTitle: 3 Mėnesiai
     planPrice: 299.99€
@@ -167,10 +167,7 @@ subtitle: Naujienas, naujausius pasiūlymus, įvairias akcijas ir visą kitą
   pagrindinę informacija rasite mūsų Telegram kanale.
 title: Prisijunk prie didžiausios lažybų ekspertų grupės Lietuvoje!
 price1Month: 119.99€
-nuolaidos:
-  - discountTitle: helovynas30
-    percent: "30"
-    isTurnedOn: true
+nuolaidos: []
 price3Months: 249.99€
 paslauga3Title: Pagalba klientams 24/7
 atsiliepimai:
