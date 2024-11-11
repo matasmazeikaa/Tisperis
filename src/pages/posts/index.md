@@ -1,7 +1,7 @@
 ---
 plans:
-  - planTitle: Savaitgalio narystė
-    planPrice: 39.99€
+  - planTitle: Eurolygos statymai
+    planPrice: 29.99€
     planDescriptions:
       - planDescription: Pilnai išanalizuoti statymai
       - planDescription: Klaidingos lažybų bendrovių linijos
