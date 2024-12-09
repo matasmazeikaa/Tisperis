@@ -1,7 +1,7 @@
 ---
 plans:
-  - planTitle: 2 Savaitės
-    planPrice: 79.99€
+  - planTitle: 1 Savaitė
+    planPrice: 49.99€
     planDescriptions:
       - planDescription: Pilnai išanalizuoti statymai
       - planDescription: Klaidingos lažybų bendrovių linijos
