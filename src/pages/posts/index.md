@@ -31,6 +31,13 @@ plans:
       - planDescription: Klaidingos lažybų bendrovių linijos
       - planDescription: Pagalba klientams 24/7
       - planDescription: 450-500 Prognozių
+  - planTitle: 1 Metai
+    planPrice: 799.99€
+    planDescriptions:
+      - planDescription: Pilnai išanalizuoti statymai
+      - planDescription: Klaidingos lažybų bendrovių linijos
+      - planDescription: Pagalba klientams 24/7
+      - planDescription: 800-900 Prognozių
 statistika:
   - statistikosFoto: /assets/media/image-2024-03-19-at-16.55.jpeg
   - statistikosFoto: /assets/media/image-2024-03-19-at-16.58.jpeg
