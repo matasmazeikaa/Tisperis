@@ -176,7 +176,7 @@ subtitle: Naujienas, naujausius pasiūlymus, įvairias akcijas ir visą kitą
 title: Prisijunk prie didžiausios lažybų ekspertų grupės Lietuvoje!
 price1Month: 119.99€
 nuolaidos:
-  - discountTitle: kalėdos
+  - discountTitle: kaledos40
     percent: "40"
     isTurnedOn: true
 price3Months: 249.99€
