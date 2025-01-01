@@ -1,7 +1,7 @@
 ---
 plans:
   - planTitle: 2 Savaitės
-    planPrice: "79.99€ "
+    planPrice: "89.99€ "
     planDescriptions:
       - planDescription: Pilnai išanalizuoti statymai
       - planDescription: Klaidingos lažybų bendrovių linijos
@@ -17,7 +17,7 @@ plans:
       - planDescription: 220-250 Prognozių
     isMostPopular: true
   - planTitle: 1 Mėnesis
-    planPrice: 129.99€
+    planPrice: 349.99€
     planDescriptions:
       - planDescription: Pilnai išanalizuoti statymai
       - planDescription: Klaidingos lažybų bendrovių linijos
